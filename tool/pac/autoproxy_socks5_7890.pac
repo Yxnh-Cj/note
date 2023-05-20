@@ -12,8 +12,6 @@ var rules = [
         [
             "gfwstable.icu",
             "github.com",
-            "googlevideo.com",
-            "ytimg.com",
             "githubusercontent.com",
             "google-analytics.com",
             "googletagmanager.com",
