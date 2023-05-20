@@ -12,6 +12,8 @@ var rules = [
         [
             "gfwstable.icu",
             "github.com",
+            "googlevideo.com",
+            "ytimg.com",
             "githubusercontent.com",
             "google-analytics.com",
             "googletagmanager.com",
@@ -27,8 +29,6 @@ var rules = [
     [
         [
             "aftygh.gov.tw",
-            "googlevideo.com",
-            "ytimg.com",
             "aide.gov.tw",
             "aliyun.com",
             "arte.gov.tw",
