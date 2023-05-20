@@ -27,6 +27,8 @@ var rules = [
     [
         [
             "aftygh.gov.tw",
+            "googlevideo.com",
+            "ytimg.com",
             "aide.gov.tw",
             "aliyun.com",
             "arte.gov.tw",
