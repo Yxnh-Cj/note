@@ -101,7 +101,6 @@ var rules = [
             "weibo.com",
             "yahoo.cn",
             "ytimg.com",
-            "googlevideo.com",
             "yatsen.gov.tw",
             "yda.gov.tw",
             "youdao.com",
