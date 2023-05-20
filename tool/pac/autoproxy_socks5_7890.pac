@@ -17,6 +17,7 @@ var rules = [
             "googletagmanager.com",
             "jquery.com",
             "pusher.com",
+            "gstatic.com",
             "pusherapp.com",
             "sstatic.net",
             "stripe.com",
