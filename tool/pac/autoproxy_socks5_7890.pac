@@ -2800,7 +2800,7 @@ var rules = [
             "iptv.com.tw",
             "iptvbin.com",
             "ipvanish.com",
-            "iqiyi.com",
+//            "iqiyi.com",
             "iredmail.org",
             "irib.ir",
             "ironpython.net",
