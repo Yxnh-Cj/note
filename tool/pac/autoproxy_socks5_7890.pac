@@ -636,7 +636,7 @@ var rules = [
             "biliworld.com",
             "billypan.com",
             "binance.com",
-            "bing.com",
+            # "bing.com",
             "binux.me",
             "binwang.me",
             "bird.so",
